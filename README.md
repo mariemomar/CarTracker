@@ -20,8 +20,7 @@ pip install opencv-python numpy
 
 Click the link below to download the YOLOv4 weights file:
 
-[Download YOLOv4 Weights](https://objects.githubusercontent.com/github-production-release-asset-2e65be/75388965/749e43d0-8605-436f-b26c-12ee01c2a265?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250205%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250205T015847Z&X-Amz-Expires=300&X-Amz-Signature=9dee1d5bde22b83771c886f84c3248d87723e32d9a2e91c5f989166eedfe717f&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dyolov4.weights&response-content-type=application%2Foctet-stream)
-
+[Download YOLOv4 Weights](https://github.com/AlexeyAB/darknet/releases/download/yolov4/yolov4.weights)
 
 and move it to the directory dnn_models
 
